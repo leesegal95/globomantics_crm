@@ -6,4 +6,3 @@ variants of the US dollars display are retained in the code, but commented
 out. This makes it easy to toggle between different styles for version
 control testing.
 
-Work in progress, will be very cool
